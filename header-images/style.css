@@ -1,0 +1,3 @@
+#slideshow {position: relative; width: 100%; height: 276px; clear: both;}
+#slideshow a {position: absolute; z-index: 10; display: block; border: none !important;}
+#slideshow img {border: none !important;}
